@@ -1,0 +1,12 @@
+C:\Users\warga\source\repos\ShopLav\bin\Debug\ShopLav.exe.config
+C:\Users\warga\source\repos\ShopLav\bin\Debug\ShopLav.exe
+C:\Users\warga\source\repos\ShopLav\bin\Debug\ShopLav.pdb
+C:\Users\warga\source\repos\ShopLav\obj\Debug\ShopLav.csproj.AssemblyReference.cache
+C:\Users\warga\source\repos\ShopLav\obj\Debug\ShopLav.csproj.SuggestedBindingRedirects.cache
+C:\Users\warga\source\repos\ShopLav\obj\Debug\ShopLav.Form1.resources
+C:\Users\warga\source\repos\ShopLav\obj\Debug\ShopLav.Properties.Resources.resources
+C:\Users\warga\source\repos\ShopLav\obj\Debug\ShopLav.csproj.GenerateResource.cache
+C:\Users\warga\source\repos\ShopLav\obj\Debug\ShopLav.csproj.CoreCompileInputs.cache
+C:\Users\warga\source\repos\ShopLav\obj\Debug\ShopLav.exe
+C:\Users\warga\source\repos\ShopLav\obj\Debug\ShopLav.pdb
+C:\Users\warga\source\repos\ShopLav\obj\Debug\ShopLav.Form2.resources
